@@ -1,0 +1,24 @@
+{
+  "name": "chatcolor",
+  "version": "1.0.0",
+  "description": "ChatColor port for flying-squid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItsRemix/ChatColor.git"
+  },
+  "keywords": [
+    "ChatColor",
+    "flying-squid",
+    "Spigot"
+  ],
+  "author": "Remix#4945",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ItsRemix/ChatColor/issues"
+  },
+  "homepage": "https://github.com/ItsRemix/ChatColor#readme"
+}
